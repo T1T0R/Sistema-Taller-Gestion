@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GestorTallerAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|d:\\gestortallerapp\\capadatos\\trabajosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capadatos\\trabajosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Gestor-Pedidos-Tecnology||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capalogica\\comprobanteimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capalogica\\comprobanteimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formtrabajoingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formtrabajoingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capalogica\\trabajosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capalogica\\trabajosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formtrabajoingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formtrabajoingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\frmgestortrabajos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\frmgestortrabajos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\frmgestortrabajos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\frmgestortrabajos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formganancias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formganancias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formcontactar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formcontactar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formcontactar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formcontactar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formganancias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formganancias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\frmgestortrabajos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\frmgestortrabajos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capalogica\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capalogica\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capalogica\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capalogica\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capalogica\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capalogica\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formcontactar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formcontactar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formganancias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formganancias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capalogica\\registroganancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capalogica\\registroganancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|D:\\GestorTallerAPP\\capapresentacion\\formtrabajoingreso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838408D-1893-4918-9A40-9E7B86ED8EC7}|Gestor-Pedidos-Tecnology.csproj|solutionrelative:capapresentacion\\formtrabajoingreso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1438,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajosDAL.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaDatos\\TrabajosDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\TrabajosDAL.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaDatos\\TrabajosDAL.cs",
+              "RelativeToolTip": "CapaDatos\\TrabajosDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:05:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComprobanteImagen.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaLogica\\ComprobanteImagen.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\ComprobanteImagen.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaLogica\\ComprobanteImagen.cs",
+              "RelativeToolTip": "CapaLogica\\ComprobanteImagen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:19:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormLogin.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormLogin.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormLogin.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAhwEsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:45:20.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmGestorTrabajos.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FrmGestorTrabajos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmGestorTrabajos.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FrmGestorTrabajos.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmGestorTrabajos.cs",
+              "ViewState": "AQIAAKACAAAAAAAAAAAtwLECAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:55:17.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormLogin.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormLogin.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:18:53.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormLogin.Designer.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormLogin.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormLogin.Designer.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAIwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:36:31.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\GestorTallerAPP\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-23T23:06:44.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gestor-Pedidos-Tecnology",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\Gestor-Pedidos-Tecnology.csproj",
+              "RelativeDocumentMoniker": "Gestor-Pedidos-Tecnology.csproj",
+              "ToolTip": "D:\\GestorTallerAPP\\Gestor-Pedidos-Tecnology.csproj",
+              "RelativeToolTip": "Gestor-Pedidos-Tecnology.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-02T16:41:22.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormTrabajoIngreso.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormTrabajoIngreso.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormTrabajoIngreso.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormTrabajoIngreso.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormTrabajoIngreso.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAMBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:17:28.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrabajosBL.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaLogica\\TrabajosBL.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\TrabajosBL.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaLogica\\TrabajosBL.cs",
+              "RelativeToolTip": "CapaLogica\\TrabajosBL.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAUwPYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:13:07.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormTrabajoIngreso.cs [Design]",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormTrabajoIngreso.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormTrabajoIngreso.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormTrabajoIngreso.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\FormTrabajoIngreso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:17:25.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmGestorTrabajos.cs [Design]",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FrmGestorTrabajos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmGestorTrabajos.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FrmGestorTrabajos.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\FrmGestorTrabajos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:58:24.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormContactar.cs [Design]",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormContactar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormContactar.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormContactar.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\FormContactar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:18:55.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormGanancias.cs [Design]",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormGanancias.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormGanancias.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormGanancias.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\FormGanancias.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:44:01.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormContactar.Designer.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormContactar.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormContactar.Designer.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormContactar.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormContactar.Designer.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAIAwwE0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:39:26.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "D:\\GestorTallerAPP\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAEwIcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-02T16:46:41.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormGanancias.Designer.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormGanancias.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormGanancias.Designer.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormGanancias.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormGanancias.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAIAwwF8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:56:01.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmGestorTrabajos.Designer.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FrmGestorTrabajos.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmGestorTrabajos.Designer.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FrmGestorTrabajos.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmGestorTrabajos.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:27:03.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Trabajo.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaLogica\\Trabajo.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\Trabajo.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaLogica\\Trabajo.cs",
+              "RelativeToolTip": "CapaLogica\\Trabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:45:01.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaLogica\\Clientes.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\Clientes.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaLogica\\Clientes.cs",
+              "RelativeToolTip": "CapaLogica\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:00:44.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Equipos.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaLogica\\Equipos.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\Equipos.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaLogica\\Equipos.cs",
+              "RelativeToolTip": "CapaLogica\\Equipos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:33:51.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormContactar.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormContactar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormContactar.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormContactar.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormContactar.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:49:10.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormGanancias.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormGanancias.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormGanancias.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormGanancias.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormGanancias.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:55:54.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegistroGanancia.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaLogica\\RegistroGanancia.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\RegistroGanancia.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaLogica\\RegistroGanancia.cs",
+              "RelativeToolTip": "CapaLogica\\RegistroGanancia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:55:14.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormTrabajoIngreso.Designer.cs",
+              "DocumentMoniker": "D:\\GestorTallerAPP\\CapaPresentacion\\FormTrabajoIngreso.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormTrabajoIngreso.Designer.cs",
+              "ToolTip": "D:\\GestorTallerAPP\\CapaPresentacion\\FormTrabajoIngreso.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormTrabajoIngreso.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:42:20.298Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 358,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Tecnology Digital Services.exe" version="1.0.0.22" publicKeyToken="3247ee2444b7a3d5" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="imagen_2025-02-21_121653041.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Tecnology Digital Services" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Tecnology Digital Services.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BouncyCastle.Cryptography.dll" size="6867224">
+      <assemblyIdentity name="BouncyCastle.Cryptography" version="2.0.0.0" publicKeyToken="072EDCF4A5328938" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rsInFU/FSXOf9aB5IHI2QfdzzmXQXcpwshUYPJPpZB0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="itextsharp.dll" size="2592768">
+      <assemblyIdentity name="itextsharp" version="5.5.13.4" publicKeyToken="8354AE6D2174DDCA" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>K31q/P+F9Sm5aL/s2KHzVhIoG5E8m0UEaTMe3SBRwQk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PdfiumViewer.dll" size="115712">
+      <assemblyIdentity name="PdfiumViewer" version="2.13.0.0" publicKeyToken="91E4789CFB0609E0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ZfH8v0qDbPN6DoyjK63A+4G5OHAUzhQcwF5dpxFIa6g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="nl\PdfiumViewer.resources.dll" size="4608">
+      <assemblyIdentity name="PdfiumViewer.resources" version="2.13.0.0" publicKeyToken="91E4789CFB0609E0" language="nl" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ZCZVDasJn1Wllz3/QEmIpE2A0JcKuj8hT67j06OhlE4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tecnology Digital Services.exe" size="1763240">
+      <assemblyIdentity name="Tecnology Digital Services" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6E2zA3qP8NMEzBrrpjoVEzPTHpbMBdxHNeejfsvLHjA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="imagen_2025-02-21_121653041.ico" size="138003">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yaWhPxder4d3rWzImPwgL5oVELFNQv82JysJ094WRwY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Tecnology Digital Services.exe.config" size="439">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EoN1r2FUhmEVdLrWe/y/27VE3HwOH1D1m2GEXj0s31U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="tvlogo.ico" size="125010">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fouNazZ2n62hpWAmsqt1xpc/Rp/yzwNy8+iOLb/Cigg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=TITOPC\thiag" issuerKeyHash="5c60cd376c708c1283b7117501fdce0fcaf74df4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>0WYEnwmoinityy0XbXaeIObwcZ6q1RNKiiuvSfcATFI=</DigestValue></Reference></SignedInfo><SignatureValue>NPxSba7AF99AODrZXKB2wu9tMS/CmGXRUNeqWdBCyoe/UPwj5U9DQZU8Ul+z/L5y/Hpd3WvHoLi2PM04JQMD2qI/DUHWCPW7dqbUHYHFobNClT7zdcE0RITuVLTQ8gWEdjq3Axn0bbNJG6TAJ4Sf5KohdA6FRDG9HUJ7mElGyFY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tdvXtq3ZbT8D6vtp9YfzN7D2UoMBEDa46m1MBlGUbmzfotYGMFbY3+tibZWtx7myZ3XNBawCkoGUndg48PX1BoNF7w0SUZ24zH6gv4HDgoYCxFfIBOkrFBcl+X4VxW4LE/KxeK5eaA3AjWjrFyYJ8Fh4jasL4mrXmbUunVZNQAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="524c00f749af2b8a4a13d5aa9e71f0e6209e766d172dcbad788aa8099f0466d1" Description="" Url=""><as:assemblyIdentity name="Tecnology Digital Services.exe" version="1.0.0.22" publicKeyToken="3247ee2444b7a3d5" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=TITOPC\thiag</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>XZDQDWyPFvgVddP1jXgT3gT5g4J9YRUQAW2gsKFdG/8=</DigestValue></Reference></SignedInfo><SignatureValue>heNw2Hqhljkhg0/bD0cVFj4nkbqPu9jrxqlw+AyT42PaXpvLnBMyaw0WfHEf42vBCo6qhJw0Plp9hl0dWeMT4HvcMNsQ7eqyXkqoBcF/nfh2aYoIV0uUk8U+WRDbfulhGFZGrBc7zO/gEWqmYfDokILtaXZsXHbkUeubQAnweHw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tdvXtq3ZbT8D6vtp9YfzN7D2UoMBEDa46m1MBlGUbmzfotYGMFbY3+tibZWtx7myZ3XNBawCkoGUndg48PX1BoNF7w0SUZ24zH6gv4HDgoYCxFfIBOkrFBcl+X4VxW4LE/KxeK5eaA3AjWjrFyYJ8Fh4jasL4mrXmbUunVZNQAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQOpm7/+FWtL9LiBxdEeFIZzANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAVABJAFQATwBQAEMAXAB0AGgAaQBhAGcwHhcNMjUwMjA3MTk1MjI1WhcNMjYwMjA4MDE1MjI1WjAjMSEwHwYDVQQDHhgAVABJAFQATwBQAEMAXAB0AGgAaQBhAGcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALXb17at2W0/A+r7afWH8zew9lKDARA2uOptTAZRlG5s36LWBjBW2N/rYm2Vrce5smd1zQWsApKBlJ3YOPD19QaDRe8NElGduMx+oL+Bw4KGAsRXyATpKxQXJfl+FcVuCxPysXiuXmgNwI1o6xcmCfBYeI2rC+Jq15m1Lp1WTUABAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAhRG2YQV3JD8h6MdGQ5WT0ngRyeRa+E+nYp5FrL4Oto1C2ri6HjNaGhKLjQfyDqzWhJeqMHDiu4IXylXDhYqkby3YEOe8uSyUbAeqcsR3TTKhJb+whsFjPpGwjdoVBU5J8jKhxEAr0n+qNTptPbL8pRHvboOBQnL7lJA4rqQP7GQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

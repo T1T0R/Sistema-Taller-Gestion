@@ -1,0 +1,52 @@
+D:\Gestor-Pedidos-Tecnology\bin\Release\Tecnology Digital Services.exe.config
+D:\Gestor-Pedidos-Tecnology\bin\Release\Tecnology Digital Services.exe.manifest
+D:\Gestor-Pedidos-Tecnology\bin\Release\Tecnology Digital Services.application
+D:\Gestor-Pedidos-Tecnology\bin\Release\Tecnology Digital Services.exe
+D:\Gestor-Pedidos-Tecnology\bin\Release\Tecnology Digital Services.pdb
+D:\Gestor-Pedidos-Tecnology\bin\Release\BouncyCastle.Cryptography.dll
+D:\Gestor-Pedidos-Tecnology\bin\Release\itextsharp.dll
+D:\Gestor-Pedidos-Tecnology\bin\Release\PdfiumViewer.dll
+D:\Gestor-Pedidos-Tecnology\bin\Release\BouncyCastle.Cryptography.xml
+D:\Gestor-Pedidos-Tecnology\bin\Release\itextsharp.xml
+D:\Gestor-Pedidos-Tecnology\bin\Release\PdfiumViewer.xml
+D:\Gestor-Pedidos-Tecnology\bin\Release\nl\PdfiumViewer.resources.dll
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor-Pedidos-Tecnology.csproj.AssemblyReference.cache
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FormContactar.resources
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FormGanancias.resources
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FormLogin.resources
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FrmGestorTrabajos.resources
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FormTrabajoIngreso.resources
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor_Pedidos_Tecnology.Properties.Resources.resources
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor-Pedidos-Tecnology.csproj.GenerateResource.cache
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor-Pedidos-Tecnology.csproj.CoreCompileInputs.cache
+D:\Gestor-Pedidos-Tecnology\obj\Release\Tecnology Digital Services.exe.manifest
+D:\Gestor-Pedidos-Tecnology\obj\Release\Tecnology Digital Services.application
+D:\Gestor-Pedidos-Tecnology\obj\Release\Gestor-P.ABAAA18C.Up2Date
+D:\Gestor-Pedidos-Tecnology\obj\Release\Tecnology Digital Services.exe
+D:\Gestor-Pedidos-Tecnology\obj\Release\Tecnology Digital Services.pdb
+D:\GestorTallerAPP\obj\Release\Gestor-Pedidos-Tecnology.csproj.AssemblyReference.cache
+D:\GestorTallerAPP\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FormContactar.resources
+D:\GestorTallerAPP\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FormGanancias.resources
+D:\GestorTallerAPP\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FormLogin.resources
+D:\GestorTallerAPP\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FrmGestorTrabajos.resources
+D:\GestorTallerAPP\obj\Release\Gestor_Pedidos_Tecnology.CapaPresentacion.FormTrabajoIngreso.resources
+D:\GestorTallerAPP\obj\Release\Gestor-Pedidos-Tecnology.csproj.GenerateResource.cache
+D:\GestorTallerAPP\bin\Release\TechFix.exe.config
+D:\GestorTallerAPP\bin\Release\TechFix.exe.manifest
+D:\GestorTallerAPP\bin\Release\TechFix.application
+D:\GestorTallerAPP\bin\Release\TechFix.exe
+D:\GestorTallerAPP\bin\Release\TechFix.pdb
+D:\GestorTallerAPP\bin\Release\BouncyCastle.Cryptography.dll
+D:\GestorTallerAPP\bin\Release\itextsharp.dll
+D:\GestorTallerAPP\bin\Release\PdfiumViewer.dll
+D:\GestorTallerAPP\bin\Release\BouncyCastle.Cryptography.xml
+D:\GestorTallerAPP\bin\Release\itextsharp.xml
+D:\GestorTallerAPP\bin\Release\PdfiumViewer.xml
+D:\GestorTallerAPP\bin\Release\nl\PdfiumViewer.resources.dll
+D:\GestorTallerAPP\obj\Release\Tech_Fix.Properties.Resources.resources
+D:\GestorTallerAPP\obj\Release\Gestor-Pedidos-Tecnology.csproj.CoreCompileInputs.cache
+D:\GestorTallerAPP\obj\Release\TechFix.exe.manifest
+D:\GestorTallerAPP\obj\Release\TechFix.application
+D:\GestorTallerAPP\obj\Release\Gestor-P.ABAAA18C.Up2Date
+D:\GestorTallerAPP\obj\Release\TechFix.exe
+D:\GestorTallerAPP\obj\Release\TechFix.pdb

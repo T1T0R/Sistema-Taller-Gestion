@@ -1,0 +1,64 @@
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\bin\Debug\Gestor-Pedidos-Tecnology.exe.config
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\bin\Debug\Gestor-Pedidos-Tecnology.exe
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\bin\Debug\Gestor-Pedidos-Tecnology.pdb
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-Pedidos-Tecnology.csproj.AssemblyReference.cache
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.Properties.Resources.resources
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-Pedidos-Tecnology.csproj.GenerateResource.cache
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-Pedidos-Tecnology.csproj.CoreCompileInputs.cache
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-Pedidos-Tecnology.exe
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-Pedidos-Tecnology.pdb
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.FormProductos.resources
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FrmGestorTrabajos.resources
+C:\Users\TITO\Desktop\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormTrabajoIngreso.resources
+D:\Gestor-Pedidos-Tecnology\bin\Debug\Tecnology Digital Services.exe
+D:\Gestor-Pedidos-Tecnology\bin\Debug\Tecnology Digital Services.exe.config
+D:\Gestor-Pedidos-Tecnology\bin\Debug\Tecnology Digital Services.exe.manifest
+D:\Gestor-Pedidos-Tecnology\bin\Debug\Tecnology Digital Services.application
+D:\Gestor-Pedidos-Tecnology\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Gestor-Pedidos-Tecnology\bin\Debug\itextsharp.dll
+D:\Gestor-Pedidos-Tecnology\bin\Debug\PdfiumViewer.dll
+D:\Gestor-Pedidos-Tecnology\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Gestor-Pedidos-Tecnology\bin\Debug\itextsharp.xml
+D:\Gestor-Pedidos-Tecnology\bin\Debug\PdfiumViewer.xml
+D:\Gestor-Pedidos-Tecnology\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-Pedidos-Tecnology.csproj.AssemblyReference.cache
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormContactar.resources
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormGanancias.resources
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormLogin.resources
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FrmGestorTrabajos.resources
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormTrabajoIngreso.resources
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor_Pedidos_Tecnology.Properties.Resources.resources
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-Pedidos-Tecnology.csproj.GenerateResource.cache
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-Pedidos-Tecnology.csproj.CoreCompileInputs.cache
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Tecnology Digital Services.exe.manifest
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Tecnology Digital Services.application
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Gestor-P.ABAAA18C.Up2Date
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Tecnology Digital Services.exe
+D:\Gestor-Pedidos-Tecnology\obj\Debug\Tecnology Digital Services.pdb
+D:\Gestor-Pedidos-Tecnology\bin\Debug\Tecnology Digital Services.pdb
+D:\GestorTallerAPP\obj\Debug\Gestor-Pedidos-Tecnology.csproj.AssemblyReference.cache
+D:\GestorTallerAPP\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormContactar.resources
+D:\GestorTallerAPP\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormGanancias.resources
+D:\GestorTallerAPP\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormLogin.resources
+D:\GestorTallerAPP\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FrmGestorTrabajos.resources
+D:\GestorTallerAPP\obj\Debug\Gestor_Pedidos_Tecnology.CapaPresentacion.FormTrabajoIngreso.resources
+D:\GestorTallerAPP\obj\Debug\Gestor-Pedidos-Tecnology.csproj.GenerateResource.cache
+D:\GestorTallerAPP\bin\Debug\TechFix.exe.config
+D:\GestorTallerAPP\bin\Debug\TechFix.exe.manifest
+D:\GestorTallerAPP\bin\Debug\TechFix.application
+D:\GestorTallerAPP\bin\Debug\TechFix.exe
+D:\GestorTallerAPP\bin\Debug\TechFix.pdb
+D:\GestorTallerAPP\bin\Debug\BouncyCastle.Cryptography.dll
+D:\GestorTallerAPP\bin\Debug\itextsharp.dll
+D:\GestorTallerAPP\bin\Debug\PdfiumViewer.dll
+D:\GestorTallerAPP\bin\Debug\BouncyCastle.Cryptography.xml
+D:\GestorTallerAPP\bin\Debug\itextsharp.xml
+D:\GestorTallerAPP\bin\Debug\PdfiumViewer.xml
+D:\GestorTallerAPP\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\GestorTallerAPP\obj\Debug\Tech_Fix.Properties.Resources.resources
+D:\GestorTallerAPP\obj\Debug\Gestor-Pedidos-Tecnology.csproj.CoreCompileInputs.cache
+D:\GestorTallerAPP\obj\Debug\TechFix.exe.manifest
+D:\GestorTallerAPP\obj\Debug\TechFix.application
+D:\GestorTallerAPP\obj\Debug\Gestor-P.ABAAA18C.Up2Date
+D:\GestorTallerAPP\obj\Debug\TechFix.exe
+D:\GestorTallerAPP\obj\Debug\TechFix.pdb
